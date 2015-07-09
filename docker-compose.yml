@@ -1,2 +1,2 @@
 blubb:
-  image: debian
+  image: registry.flightright.de/findbugs
