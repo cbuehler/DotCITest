@@ -1,2 +1,2 @@
 blubb:
-  image: registry.flightright.de/findbugs
+  image: maven
