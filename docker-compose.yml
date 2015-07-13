@@ -1,2 +1,2 @@
 findbugs:
-  image: registry.flightright.de/findbugs
+  build: findbugs
