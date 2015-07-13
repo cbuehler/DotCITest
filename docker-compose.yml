@@ -1,4 +1,2 @@
 findbugs:
   build: findbugs
-  entrypoint:
-    - bash
