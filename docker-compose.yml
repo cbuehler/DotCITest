@@ -1,2 +1,2 @@
 blubb:
-  image: maven
+  build: .
