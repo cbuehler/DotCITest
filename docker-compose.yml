@@ -1,2 +1,3 @@
 findbugs:
   build: findbugs
+  command: -version
