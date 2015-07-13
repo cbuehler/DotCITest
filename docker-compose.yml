@@ -1,2 +1,2 @@
-blubb:
-  build: .
+findbugs:
+  image: registry.flightright.de/findbugs
