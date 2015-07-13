@@ -1,2 +1,2 @@
 run:
-  findbugs: 'false'
+  findbugs: 'true'
