@@ -1,3 +1,4 @@
 findbugs:
   build: findbugs
-  command: -version
+  entrypoint:
+    - true
